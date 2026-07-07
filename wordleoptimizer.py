@@ -1,5 +1,5 @@
 """
-Wordle optimizer
+Wordle optimizer 
 
 For every allowed guess word, scores it against every possible answer word:
   - +1 ("yellow") for each letter in the guess that appears anywhere in the
